@@ -78,31 +78,15 @@ print(classification_report1)
 
 <img width="773" height="320" alt="Screenshot 2025-09-25 091129" src="https://github.com/user-attachments/assets/6d93cb24-6cc5-43fd-b823-ee82b9d3b8d5" />
 
-
-
-
-
-
+--------------------------------------------------------------------------------------------------------------
 
 <img width="370" height="57" alt="Screenshot 2025-09-25 091137" src="https://github.com/user-attachments/assets/ff848a29-b688-4f66-957e-655aa3632d8f" />
 
-
-
-
+--------------------------------------------------------------------------------------------------------------
 
 <img width="575" height="124" alt="Screenshot 2025-09-25 091145" src="https://github.com/user-attachments/assets/4a14b05c-05ce-4bbf-bb3c-84ed5315166a" />
 
-
-
-
-
-
-
-
-
-
-
-
+--------------------------------------------------------------------------------------------------------------
 
 <img width="640" height="265" alt="Screenshot 2025-09-25 091152" src="https://github.com/user-attachments/assets/73f45f01-cf44-41ea-8acc-9bc9f845f687" />
 
